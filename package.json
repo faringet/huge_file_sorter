@@ -1,0 +1,20 @@
+{
+  "name": "huge_file_sorter",
+  "version": "1.0.0",
+  "description": "program sorts huge files on low-performance computers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Mikhail Davydov",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faringet/huge_file_sorter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/faringet/huge_file_sorter/issues"
+  },
+  "homepage": "https://github.com/faringet/huge_file_sorter#readme"
+}
